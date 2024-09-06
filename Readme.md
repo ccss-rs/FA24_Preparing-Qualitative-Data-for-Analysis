@@ -1,4 +1,5 @@
-Included in Github page is a copy of the slides. 
+## Readme
+Included in Github page is a copy of the slides. Below are helpful links mentioned during the workshop
 
 Request a cloud computing account to access MaxQDA and Altas.ti through CCSS. Fill out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=ZkN-XZsbz0WOebFLJ99G4agtMyWzwydHm2MTUFO-xYpUMFBKR0lTR1FENzRESEgyUTNPUkwyQ05MUSQlQCN0PWcu) to request access to our cloud computing resources. Approval from a faculty member is required to use our cloud computing resources.  
   
